@@ -41,3 +41,10 @@ Review the steps in each notebook to understand the differences in implementatio
 
 Conclusion
 This project highlights the differences between using BeautifulSoup and Pandas for web scraping. Whether you need the flexibility of BeautifulSoup or the simplicity of Pandas, these notebooks provide a clear comparison to help you choose the right tool for your task.
+
+By Beautiful Soup:
+![beuatifulsoup ](https://github.com/user-attachments/assets/6f08b456-0b8a-4e67-98f3-7f19bdabc63b)
+
+By Pandas:
+![pandas scrap](https://github.com/user-attachments/assets/17999873-5518-4700-84e8-7f5d921db1ac)
+
